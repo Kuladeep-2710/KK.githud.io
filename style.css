@@ -435,7 +435,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .html::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .tf::before{
     width: 80%;
